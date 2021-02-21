@@ -86,7 +86,7 @@ You will need to fill in the constructor parameters with your designated `employ
 
 Test the `deposit` function by sending various values. Keep an eye on the `employee` balances as you send different amounts of Ether to the contract and ensure the logic is executing properly.
 
-![Remix Testing](Images/remix-test.png)
+![Remix Testing](Videos/ProfitSplitterDeploy.mov)
 
 ### Level Two: The `TieredProfitSplitter` Contract
 
@@ -192,7 +192,7 @@ Once you feel comfortable with your contracts, point MetaMask to the Kovan or Ro
 
 After switching MetaMask to Kovan, deploy the contracts as before and copy/keep a note of their deployed addresses. The transactions will also be in your MetaMask history, and on the blockchain permanently to explore later.
 
-![Remix Deploy](Images/remix-deploy.png)
+![Remix Deploy](Videos/DefferedEquityTransactionKovan.mov)
 
 ## Resources
 
